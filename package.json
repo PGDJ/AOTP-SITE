@@ -1,0 +1,9 @@
+{
+  "name": "aotp-site",
+  "version": "1.0.0",
+  "description": "Art of the Possible Website",
+  "main": "index.js",
+  "author": "Andrew Stobie",
+  "license": "MIT",
+  "private": true
+}
