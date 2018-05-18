@@ -1,2 +1,3 @@
-# GSS Grid 101 - preview of course
+# AOTP-SITE
 
+Art of the Possible Website
